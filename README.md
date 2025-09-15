@@ -9,8 +9,7 @@
 * Add your skills and hobbies to it.
 * Push this branch to your remote repository.
 ### Task 3:
-* Merge your newly created branch with the main branch.
-* Push your main branch to the remote repository.
+* Merge your newly created branch with the main branch. * Push your main branch to the remote repository.
 ### Task 4:
 * Fork this GitHub repository: [Docusaurus](https://github.com/goyalshivansh2805/docusaurus-2025)
 * Add a "**your_name.md**" file inside the *docs* folder and add your details about yourself.
