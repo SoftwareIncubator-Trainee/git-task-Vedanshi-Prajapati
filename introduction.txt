@@ -1,1 +1,6 @@
+Name: Vedanshi Prajapati 
+Domain: Designing
+Branch: IT
+Skills: Designing and Web Development 
+Hobbies: Photography and Videography
 Technical-skills: C, java, python, html and CSS
